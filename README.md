@@ -1,6 +1,7 @@
 # sunshine
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+First APP that I commit to github.
+This is also a project for my kotlin coding execise.
 
 ## Code Example
 
